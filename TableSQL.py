@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 #đọc tệp CSV vào pandas Data Frame
 df = pd.read_csv('D:\2. STUDY\1. AIO 2024\MODULE 2\Week 1\Numpy_ImageProcessing_TableSQL\advertising.csv')
